@@ -1,0 +1,18 @@
+.Basic {
+  max-width: 95%;
+  font-size:30px;
+  text-align: center;
+  position:absolute;
+  top: 20%;
+  left: 30%;
+  margin:auto;
+}
+.BlankTime{
+  max-width: 95%;
+  font-size:30px;
+  text-align: center;
+  position:absolute;
+  top: 40%;
+  left: 40%;
+  margin:auto;
+}
