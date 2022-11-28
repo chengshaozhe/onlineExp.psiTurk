@@ -1,2 +1,2 @@
-# Set up psiTurk
-https://psiturk.org/
+## psiTurk setup 
+https://psiturk.readthedocs.io/en/latest/quickstart.html
